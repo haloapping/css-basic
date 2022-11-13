@@ -1,0 +1,46 @@
+/* color name */
+h1 {
+    font-size: 100px;
+    color: blue;
+}
+
+/* color hexadecimal */
+h1 {
+    font-size: 100px;
+    color: #1eed90;
+}
+
+/* color RGB */
+h1 {
+    font-size: 100px;
+    color: rgb(255, 125, 10);
+}
+
+/* text align */
+p {
+    text-align: justify;
+}
+
+/* text indent */
+p {
+    text-indent: 100px;
+}
+
+/* text decoration */
+p {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* text transform */
+h1 {
+    text-transform: lowercase;
+}
+
+p {
+    letter-spacing: 5px;
+    word-spacing: 5px;
+}

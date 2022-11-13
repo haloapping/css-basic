@@ -1,0 +1,19 @@
+h1, h2 {
+    color: greenyellow;
+}
+
+ul li {
+    color: red;
+}
+
+ol li {
+    color: blue;
+}
+
+p #p1 {
+    color: orange;
+}
+
+p .p2 {
+    color: purple;
+}

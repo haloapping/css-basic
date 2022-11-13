@@ -1,0 +1,36 @@
+a:link.link {
+    color: green;
+}
+
+a:hover.link {
+    color: red;
+    font-size: 100px;
+}
+
+a:active.link {
+    color: green;
+}
+
+a:visited.link {
+    color: aqua;
+}
+
+li:first-child a {
+    color: brown;
+}
+
+li:last-child a {
+    color: orange;
+}
+
+li:nth-child(2n + 1) a {
+    color: springgreen;
+}
+
+p:first-of-type {
+    color: green;
+}
+
+p:last-of-type {
+    color: yellow;
+}
